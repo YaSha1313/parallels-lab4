@@ -1,0 +1,12 @@
+Date = Пт июн 28 15:18:05 MSK 2024
+Host = cn-015
+WorkDir = /home/yaasharandak/lab4
+
+Number of Nodes Allocated = 1
+Number of Tasks Allocated = 1
+Numbers of Cores/Task Allocated = 1
+Arows = 10000
+Acols = 10000
+Brows = 10000
+Bcols = 10000
+KernelTime: 4.90 milliseconds
